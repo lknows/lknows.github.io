@@ -1,6 +1,6 @@
 # 😺 Portfolio Page [(Link)](https://lknows.is-a.dev/)
 
-[![portfolio page](https://user-images.githubusercontent.com/39676098/150769250-162251e3-b3fa-4a26-8be7-9dd507a03e76.png)](https://lknows.is-a.dev)
+[![portfolio page](https://raw.githubusercontent.com/lknows/axyl-iso/master/axol.svg)](https://lknows.is-a.dev)
 
 My portfolio page, built with Sass and the [Catppuccin theme](https://github.com/catppuccin/catppuccin).
 
